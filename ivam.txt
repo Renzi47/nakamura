@@ -6,3 +6,6 @@ bom dia galera
 boa noite
 
 acorda pessoal
+
+Método de transmissão: 
+MIMO-OFDM – Faixa de freqüência: 2,4 GHz e/ou 5 GHz.
